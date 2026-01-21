@@ -1,3 +1,7 @@
+'''
+If number + 1 is a perfect square.
+'''
+
 from math import sqrt
 n = int(input("Enter Number:"))
 new = n + 1

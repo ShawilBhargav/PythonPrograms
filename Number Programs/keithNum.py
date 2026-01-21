@@ -1,3 +1,7 @@
+'''
+A number that appears in a somewhat fibonacci series made from its digits.
+'''
+
 n = int(input("Enter Number:"))
 temp = n
 digit = []

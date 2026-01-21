@@ -1,3 +1,7 @@
+'''
+A number that is the product of exactly three different prime numbers.
+'''
+
 n = int(input("Enter Number:"))
 temp = n
 i = 2

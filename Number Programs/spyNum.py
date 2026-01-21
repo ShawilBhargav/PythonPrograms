@@ -1,3 +1,7 @@
+'''
+Sum of digits = Product of digits
+'''
+
 n = int(input("Enter Number:"))
 temp = n
 sum = 0

@@ -1,3 +1,7 @@
+'''
+A prime number whose reverse is also prime.
+'''
+
 from math import *
 def primenum(n):
     for i in range(2, int(sqrt(n)) + 1):

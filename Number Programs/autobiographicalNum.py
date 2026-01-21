@@ -1,3 +1,8 @@
+'''
+A number that describes itself.
+Each digit tells how many times a digit appears.
+'''
+
 n = (input("Enter Number:"))
 digit = list(map(int, n))
 # print(digit)

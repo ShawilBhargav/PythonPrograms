@@ -8,4 +8,4 @@ def fibo(n):
 
 num = int(input("Enter number:"))
 ans = fibo(num)
-print(f"Fibonacci of {n} is {ans}")
+print(f"Fibonacci of {num} is {ans}")

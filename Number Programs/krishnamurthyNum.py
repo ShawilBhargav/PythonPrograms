@@ -1,3 +1,7 @@
+'''
+Sum of factorial of digits = original number.
+'''
+
 from math import factorial
 n = int(input("Enter number:"))
 temp = n

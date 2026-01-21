@@ -1,3 +1,8 @@
+'''
+Digits go up and down randomly.
+Not fully increasing, not fully decreasing.
+'''
+
 n = (input("Enter Number:"))
 mapped = list(map(int, n))
 temp = sorted(n)

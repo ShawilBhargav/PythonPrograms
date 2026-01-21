@@ -1,3 +1,6 @@
+'''
+Recursive program to reverse a number
+'''
 def revnum(n):
     if len(n) <= 1:
         return n

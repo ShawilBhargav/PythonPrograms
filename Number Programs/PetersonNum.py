@@ -1,3 +1,8 @@
+'''
+Same as Krishnamurthy number.
+Different name, same logic.
+'''
+
 from math import factorial
 n = int(input("Enter number:"))
 temp = n

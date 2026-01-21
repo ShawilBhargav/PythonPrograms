@@ -1,3 +1,7 @@
+'''
+Sum of digits of square of number = number.
+'''
+
 n = int(input("Enter Number:"))
 sqnum = n**2
 temp = sqnum

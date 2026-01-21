@@ -1,3 +1,7 @@
+'''
+Binary form has even number of 1s.
+'''
+
 n = int(input("Enter Number:"))
 binary = bin(n)[2:]
 lisbin = list(map(int, binary))
