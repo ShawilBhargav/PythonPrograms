@@ -1,5 +1,6 @@
 '''
 A number whose square ends with the same number.
+EXAMPLE: 25
 '''
 
 n = int(input("Enter Number:"))

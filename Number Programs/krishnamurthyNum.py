@@ -1,5 +1,6 @@
 '''
 Sum of factorial of digits = original number.
+EXAMPLE: 145
 '''
 
 from math import factorial

@@ -1,5 +1,6 @@
 '''
 Binary form has even number of 1s.
+EXAMPLE: 3
 '''
 
 n = int(input("Enter Number:"))

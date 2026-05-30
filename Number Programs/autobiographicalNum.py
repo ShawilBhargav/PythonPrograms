@@ -1,11 +1,13 @@
 '''
 A number that describes itself.
-Each digit tells how many times a digit appears.
+Index tells how many times a digit appears.
+EXAMPLE: 1210
+0 appears 1 time, 1 -> 2, 2 -> 1,  3 -> 0
 '''
 
 n = (input("Enter Number:"))
 digit = list(map(int, n))
-# print(digit)
+print(digit)
 flag = True
 for i in range(len(digit)):
     if digit[i] != digit.count(i):

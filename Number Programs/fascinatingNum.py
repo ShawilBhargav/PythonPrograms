@@ -1,6 +1,7 @@
 '''
 Multiply number by 2 and 3, join all results.
 If digits 1 to 9 appear exactly once, it’s fascinating.
+EXAMPLE: 192
 '''
 
 n = int(input("Enter Number:"))

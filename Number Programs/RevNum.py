@@ -1,5 +1,6 @@
 '''
 Recursive program to reverse a number
+EXAMPLE: 12345
 '''
 def revnum(n):
     if len(n) <= 1:

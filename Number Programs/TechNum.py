@@ -1,5 +1,6 @@
 '''
 Split number into two equal parts, add them, square the sum.
+EXAMPLE: 2025
 '''
 
 n = int(input("Enter Number:"))

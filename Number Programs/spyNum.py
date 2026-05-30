@@ -1,5 +1,6 @@
 '''
 Sum of digits = Product of digits
+EXAMPLE: 123
 '''
 
 n = int(input("Enter Number:"))

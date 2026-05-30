@@ -1,6 +1,7 @@
 '''
 Xylem Number if the sum of its extreme digits (first and last) is equal to the sum of its mean digits (all digits in between).
 Phloem Number if the sum of its extreme digits is not equal to the sum of its mean digits.
+EXAMPLE: Xylem- 12326, Phloem- 36985
 '''
 
 n = input("Enter Number:")

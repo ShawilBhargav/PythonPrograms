@@ -1,5 +1,6 @@
 '''
 A number that is the product of exactly three different prime numbers.
+EXAMPLE: 30
 '''
 
 n = int(input("Enter Number:"))

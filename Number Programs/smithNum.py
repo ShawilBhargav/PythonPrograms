@@ -1,6 +1,7 @@
 '''
 Composite number whose:
 Sum of digits = Sum of digits of its prime factors
+EXAMPLE: 666
 '''
 
 n = int(input("Enter Number:"))

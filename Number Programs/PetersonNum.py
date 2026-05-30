@@ -1,6 +1,7 @@
 '''
 Same as Krishnamurthy number.
 Different name, same logic.
+EXAMPLE: 145
 '''
 
 from math import factorial

@@ -1,5 +1,6 @@
 '''
 If number + 1 is a perfect square.
+EXAMPLE: 8
 '''
 
 from math import sqrt

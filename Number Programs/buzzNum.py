@@ -1,5 +1,6 @@
 '''
 Number that is divisible by 7 OR ends with 7.
+EXAMPLE: 27 or 21
 '''
 
 n = (input("Enter Number:"))

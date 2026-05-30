@@ -1,6 +1,7 @@
 '''
 A four-digit number that, when multiplied by 2,
 results in a product where the digits in the hundreds and tens places are identical.
+EXAMPLE: 1386
 '''
 n = int(input("Enter Number:"))*2
 digit = list(map(int, str(n)))

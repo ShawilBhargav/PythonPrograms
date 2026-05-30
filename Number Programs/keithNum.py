@@ -1,5 +1,6 @@
 '''
 A number that appears in a somewhat fibonacci series made from its digits.
+EXAMPLE: 197
 '''
 
 n = int(input("Enter Number:"))
@@ -11,7 +12,6 @@ while temp > 0:
 digit.reverse()
 # print(sum(digit))
 while 1:
-    maxsum = 0
     maxsum = sum(digit)
 
     if maxsum == n:

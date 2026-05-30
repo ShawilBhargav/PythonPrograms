@@ -1,5 +1,6 @@
 '''
 A prime number whose reverse is also prime.
+EXAMPLE: 13
 '''
 
 from math import *

@@ -1,5 +1,6 @@
 '''
 Sum of digits of square of number = number.
+EXAMPLE: 9
 '''
 
 n = int(input("Enter Number:"))

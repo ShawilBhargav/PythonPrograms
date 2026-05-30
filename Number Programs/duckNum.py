@@ -1,5 +1,6 @@
 '''
 Contains zero but not at the beginning.
+EXAMPLE: 1023
 '''
 
 n = int(input("Enter Number:"))
